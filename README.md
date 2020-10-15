@@ -1,5 +1,5 @@
-# Foreign-Direct-Investment
-FDI datasets analysis and visualization with Tableau
+# Foreign-Direct-Investment Analysis
+### FDI datasets analysis and visualization with Tableau
 
 
 In this project we will explore the FDI dataset and analyze it from the perspective of a business. We shall look at various sectors to determine which sector will prove most beneficial to collaborate with, for the company.
