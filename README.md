@@ -20,4 +20,9 @@ In this project we will explore the FDI dataset and analyze it from the perspect
 ### Deshboard
 
 1. [Insights of FDI data.pdf](https://github.com/Chirantan-Patel/Foreign-Direct-Investment-visualization-with-Tableau/files/5387306/Insights.of.FDI.data.pdf)
+![Insights_of_FDI_data](https://user-images.githubusercontent.com/40618186/96177062-47da4880-0efb-11eb-980d-426120e12e5e.jpg)
+
+
+
 2. [Trend by Sectors.pdf](https://github.com/Chirantan-Patel/Foreign-Direct-Investment-visualization-with-Tableau/files/5387307/Trend.by.Sectors.pdf)
+![Screenshot (189)](https://user-images.githubusercontent.com/40618186/96177288-a0a9e100-0efb-11eb-9bc7-165218115cbe.png)
