@@ -15,3 +15,9 @@ In this project we will explore the FDI dataset and analyze it from the perspect
 7. Which sectors reported the most variation overall? 
 8. What is the proportion of investment between sectors from the FDI perspective? Are there any specific clusters present in the data? 
 9. Can we forecast the trend for the following year?
+
+
+### Deshboard
+
+1. [Insights of FDI data.pdf](https://github.com/Chirantan-Patel/Foreign-Direct-Investment-visualization-with-Tableau/files/5387306/Insights.of.FDI.data.pdf)
+2. [Trend by Sectors.pdf](https://github.com/Chirantan-Patel/Foreign-Direct-Investment-visualization-with-Tableau/files/5387307/Trend.by.Sectors.pdf)
